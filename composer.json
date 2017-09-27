@@ -2,6 +2,7 @@
   "name": "flancer32/sample_mage2_mod_zip",
   "description": "Simple Magento 2 module to be deployed as ZIP.",
   "type": "magento2-module",
+  "version": "0.1.0",
   "homepage": "https://github.com/flancer32/sample_mage2_mod_zip",
   "license": "BSD-2-Clause",
   "authors": [
